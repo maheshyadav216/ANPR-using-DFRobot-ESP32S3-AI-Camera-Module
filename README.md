@@ -1,7 +1,7 @@
 # ANPR-using-DFRobot-ESP32S3-AI-Camera-Module
 ANPR-using-DFRobot-ESP32S3-AI-Camera-Module  
   
-<img src="/Images/mah216-hack-thumb.png" height="200">  
+<img src="/Images/mah216-hack-thumb.png" height="400">  
   
 In this project, the ESP32-S3 AI camera captures an image of a vehicle and converts it into a Base64-encoded string, which is then embedded into a JSON payload along with a natural language prompt requesting number plate extraction. This payload is sent via an HTTP POST request to Google's Gemini API (generateContent endpoint). The Gemini API processes the image and returns a JSON-formatted response, where the extracted number plate (or a relevant message) is found within a nested text field. The ESP32 then parses this JSON response using ArduinoJson, extracts the plain-text number plate, and—if valid—logs it or sends it to Firebase for storage and further monitoring. 
 
