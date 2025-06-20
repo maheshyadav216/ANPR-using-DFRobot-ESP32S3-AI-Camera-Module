@@ -37,8 +37,8 @@ Refer the [Project Blog on Hackster](https://www.hackster.io/maheshyadav216/ai-p
 🔑 Get Gemini API Key 🔗 https://aistudio.google.com/app/apikey  
 ⚙️ Firebase Database Console 🔗 https://console.firebase.google.com/  
 
-🛒 Hardware Purchase Links 🔗 https://console.firebase.google.com/  
-- [ESP32-S3 AI Camera Module]  🔗 https://www.dfrobot.com/product-2899.html
+🛒 Hardware Purchase Links -
+[ESP32-S3 AI Camera Module]  🔗 https://www.dfrobot.com/product-2899.html
    
 ------------------------------------------------------------------------------------------------------
 
