@@ -29,7 +29,7 @@ Refer the [Project Blog on Hackster](https://www.hackster.io/maheshyadav216/ai-p
 
 📕 **YouTube Video Links**  
 
-▶️  [DIY Project] AI Powered ANPR System 🔗  https://youtu.be/jt6_WuvNuSQ   
+▶️  [DIY Project] AI Powered ANPR System 🔗  https://youtu.be/Wf6Rw2O5oBU   
   
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
