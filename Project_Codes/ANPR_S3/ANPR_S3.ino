@@ -37,14 +37,14 @@
 // ======= CONFIGURATION =======
 
 // WiFi Credentials
-const char* WIFI_SSID = "";
-const char* WIFI_PASS = "";
+const char* WIFI_SSID = "Your_SSID";
+const char* WIFI_PASS = "Your_PASSWORD";
 
 // Gemini AI API Key
-const char* GEMINI_API_KEY = "";
+const char* GEMINI_API_KEY = "YOUR_GEMINI_API_KEY";
 
 // Firebase URL (Set if using Firebase)
-const char* FIREBASE_URL = "";
+const char* FIREBASE_URL = "https://your-project.firebaseio.com/data.json";
 
 // Enable Firebase integration
 #define ENABLE_FIREBASE true  // Set to false to disable Firebase
