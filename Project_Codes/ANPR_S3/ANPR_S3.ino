@@ -51,7 +51,7 @@ const char* FIREBASE_URL = "https://your-project.firebaseio.com/data.json";
 
 // NTP Time
 const char* ntpServer = "pool.ntp.org";
-const long gmtOffset_sec = 19800;
+const long gmtOffset_sec = 19800;  // for IST (UTC +5:30) for India. You can set as per your location
 const int daylightOffset_sec = 0;
 
 // ======= BASE64 ENCODING =======
